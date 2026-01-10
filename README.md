@@ -5,9 +5,10 @@
 # Как установить?
 **RUS:** Установите самое последнее обновление программы
 введите "win + r" и в строке cmd в появившийся консоли введите команду
-pip install PyQt5
+
+'pip install PyQt5'
 **ИЛИ**
-pip install PyQt6
+'pip install PyQt6'
 
 **ENG:** Install the latest program update
 type "win + r" and in the cmd line in the console that appears, type the command
